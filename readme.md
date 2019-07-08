@@ -1,8 +1,7 @@
-<h1 align="center">Laravel API</h1>
+<h1>Laravel Passport Example</h1>
 
 ## About
-
-This is a Laravel API example with Passport authentication
+This is a Laravel API example with CRUD operations and using Passport authentication
 
 ## Requirements
 - PHP 7.x,
